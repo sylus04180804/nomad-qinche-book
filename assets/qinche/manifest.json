@@ -1,0 +1,42 @@
+{
+  "character": "恶魔咪秦彻",
+  "offlineRoot": "outputs/assets/qinche/",
+  "states": {
+    "idle": "qinche-idle.png",
+    "sleep": "qinche-sleep.png",
+    "wave": "qinche-wave.png",
+    "celebrate": "qinche-celebrate.png",
+    "chair": "qinche-chair.png",
+    "motion": "qinche-motion.gif"
+    ,"live": "qinche-live.gif",
+    "liveTeam": "qinche-team-live.gif",
+    "liveHappy": "qinche-happy-live.gif",
+    "liveMiao": "qinche-miao-live.gif",
+    "liveDial": "qinche-dial-live.gif",
+    "liveAll": "qinche-all-live.gif"
+  },
+  "gallery": [
+    "qinche-sticker-sheet.png",
+    "qinche-source-1.webp",
+    "qinche-source-2.webp",
+    "qinche-source-3.webp",
+    "qinche-source-4.webp"
+  ],
+  "liveGallery": [
+    "qinche-live.gif",
+    "qinche-team-live.gif",
+    "qinche-happy-live.gif",
+    "qinche-miao-live.gif",
+    "qinche-dial-live.gif",
+    "qinche-all-live.gif"
+  ],
+  "quotes": "qinche-quotes.txt",
+  "sourceNotes": "qinche-source.txt",
+  "doNotUse": [
+    "xhs-platform-logo-not-character.png",
+    "frame-idle.png",
+    "frame-wave.png",
+    "frame-celebrate.png",
+    "frame-sleep.png"
+  ]
+}

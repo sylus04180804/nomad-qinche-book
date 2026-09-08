@@ -1,0 +1,35 @@
+恶魔咪秦彻本地素材包
+
+素材来源：小红书笔记《【免抠素材】「猫很想你」·「恶魔咪」QQ人》
+笔记地址：https://www.xiaohongshu.com/explore/687b6714000000001203c741
+原图资源来自该笔记轮播图，下载日期：2026-08-26
+
+文件说明：
+- qinche-source-1.webp：原始默认坐姿
+- qinche-source-2.webp：原始九姿态动作表
+- qinche-source-3.webp：原始椅子姿态
+- qinche-source-4.webp：原始站立庆祝姿态
+- qinche-idle.png：透明化后的默认坐姿
+- qinche-sticker-sheet.png：透明化后的动作表
+- qinche-chair.png：透明化后的椅子姿态
+- qinche-celebrate.png：透明化后的庆祝姿态
+- qinche-sleep.png：动作表裁切姿态
+- qinche-wave.png：动作表裁切姿态
+- qinche-roll.png：动作表裁切姿态
+- qinche-motion.gif：由上述原始姿态组成的轻量本地动画，不含 AI 重绘
+
+处理范围仅包括下载、裁切、去白底、透明化、等比例缩放和 GIF 帧编排，没有重新绘制角色。
+
+真实动图：
+- qinche-live.gif：从小红书笔记《恶魔咪live图》的页面内原生 4 秒 Live 视频逐帧截取并压缩为本地 GIF。保留原始场景和角色动作，没有 AI 重绘。
+- 来源：https://www.xiaohongshu.com/explore/673536d7000000003c01d41f
+- qinche-team-live.gif：从《恋与深空猫猫篇 表情包gif动图～》原生 15.7 秒视频逐帧截取，保留全员猫猫动作，其中包含恶魔咪秦彻。
+- 来源：https://www.xiaohongshu.com/explore/673344bb0000000019014b3b
+- qinche-happy-live.gif：从《恋与深空猫猫表情包2.0幸福喵》原生 17.2 秒视频逐帧截取，保留原始猫猫 GIF 动画画面。
+- 来源：https://www.xiaohongshu.com/explore/686c9a39000000000d02585d
+- qinche-miao-live.gif：从《秦喵喵的live图合集！》页面内原生 2.5 秒 Live 视频逐帧截取，作为横向 Live 动图素材。
+- 来源：https://www.xiaohongshu.com/explore/6733ff5d000000003c01e877
+- qinche-dial-live.gif：从《搓了会动的全员猫猫表盘（更新🍎全动图》原生 3.9 秒视频逐帧截取，保留竖屏表盘动效。
+- 来源：https://www.xiaohongshu.com/explore/686de7cc000000000b01c079
+- qinche-all-live.gif：从《深空全员喵喵动态壁纸！》原生 3 秒视频逐帧截取，保留竖屏动态壁纸画面。
+- 来源：https://www.xiaohongshu.com/explore/6a0feaf8000000000702efc3
